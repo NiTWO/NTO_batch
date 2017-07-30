@@ -139,3 +139,7 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+
+.idea/modules/NTO_batch.iml
+src/main/resources/
+src/test/resources/
